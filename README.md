@@ -4,7 +4,6 @@ SecretsApp is a secure platform where users can anonymously post their secrets. 
 
 ## Features
 - Anonymously post secrets
-- View secrets from other users
 - Secure authentication system
 - High-level password security
 
